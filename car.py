@@ -4,7 +4,7 @@ class Car():
     self.model = model
     self.year = year
     
-   def car_information(self)
+   def car_information(self):
       print('my car brand is ' + self.brand + ' and model is ' + self.model + 'and it is year is ' + str(self.year) 
       
    
